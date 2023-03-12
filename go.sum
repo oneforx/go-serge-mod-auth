@@ -10,3 +10,5 @@ github.com/oneforx/go-serge v0.0.4 h1:Zy+QA1iQQ+hBPGSvgWZo1RDDEbIEJ2/Dyz+XQQsTaL
 github.com/oneforx/go-serge v0.0.4/go.mod h1:d6L4CjBAQdfCK96++hRi8IMmcEfHkE/pwPV4rQ1x180=
 github.com/oneforx/go-serge v0.0.5 h1:CWvEudma8rsxsrEE6uS3DBqg+xTGsM4LgvqjCHSHsHw=
 github.com/oneforx/go-serge v0.0.5/go.mod h1:LZHOWmfylHMNk+ELhPhj/I1jL62xrua7uJWa6HGBnug=
+github.com/oneforx/go-serge v0.0.6 h1:zoFuUv0PaPHZ9Rp3gLTL9G+rBRyf7o93lFmfSwFvlLk=
+github.com/oneforx/go-serge v0.0.6/go.mod h1:LZHOWmfylHMNk+ELhPhj/I1jL62xrua7uJWa6HGBnug=

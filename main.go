@@ -1,11 +1,14 @@
 package main
 
 import (
-	"github.com/oneforx/go-serge/lib"
+	goecs "github.com/oneforx/go-ecs"
+	goserge "github.com/oneforx/go-serge"
 )
 
-func Load() lib.ILibrary {
-	var library lib.ILibrary = &lib.Library{}
+func Load() goserge.ILibrary {
+	var library goserge.ILibrary = &goserge.Library{
+		Id: goecs.Identifier{Namespace: "goserge", Path: "authentification"},
+	}
 
 	return library
 }
